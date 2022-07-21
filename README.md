@@ -1,10 +1,6 @@
-# Python Programming - Project 1 - READ FIRST!
+# Python Programming (CMSE11433) - Project 1 - READ FIRST!
 
-The tasks for Project 1 are described in the notebook `project_1.ipynb`. Complete the notebook to complete your project.
-
-Make sure to **read the instructions below** before starting.
-
-
+The tasks for Project 1 are described in the notebook `project_1.ipynb`. 
 ---
 
 ## Marking scheme
