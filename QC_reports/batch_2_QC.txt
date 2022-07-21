@@ -1,0 +1,19 @@
+Batch number: 2
+Checked on 2021-11-07, 20:04:59
+
+Total number of clocks: 33
+Number of clocks passing quality control (3-minute tolerance): 22
+Batch quality: 66.7%
+
+Clocks to send back for readjustment:
+clock_10   7min
+clock_2    6min
+clock_32   6min
+clock_7    6min
+clock_0    5min
+clock_1    5min
+clock_11   5min
+clock_30   5min
+clock_25   4min
+clock_31   4min
+clock_4    4min
